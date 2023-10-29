@@ -104,14 +104,8 @@
    dunst
    pavucontrol
    dunst
-   grim
-   slurp
-   hyprpicker
-   wl-clipboard
-   jp
    libsForQt5.gwenview
    libnotify
-   home-manager
    libsForQt5.polkit-qt
    libsForQt5.polkit-kde-agent
    networkmanagerapplet
@@ -119,6 +113,15 @@
    cmake
    unzip
    libsForQt5.ark
+   
+   #grimblast dependincies#
+   grim
+   slurp
+   hyprpicker
+   wl-clipboard
+   jp
+   #grimblast dependincies#
+   
 ];
 
   # unstable packages
